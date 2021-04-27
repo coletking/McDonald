@@ -54,7 +54,13 @@ body{
 
 }
 
+.mega-menu{
+    display: flex;
+}
 
+.mega-menu img{
+    height: 80px;
+}
 
 
 
