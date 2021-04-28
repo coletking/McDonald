@@ -54,12 +54,79 @@ body{
 
 }
 
-.mega-menu{
+.mega-menu img{
+    height: 80px;
+}
+
+.megaparentdiv{
+ border: none;
+ background-color: white;
+}
+
+.dropdown-item{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+}
+.menu-div{
     display: flex;
 }
 
-.mega-menu img{
-    height: 80px;
+.Button-colour{
+    border: 1px solid black;
+    background-color: white;
+}
+.Button-colour1{
+   
+    background-color: #ffbc0d;
+}
+
+.margug{
+    margin-left: 20px ;
+}
+
+.mega-menu-parent{
+    background-color: white;
+
+}
+
+.hi-view{
+    height: 10;
+}
+
+.back-carria{
+    height: 400px;
+}
+
+.main-notify{
+    width: 40%;
+    height: 400%;
+    background-color: white;
+    margin: 20px;
+}
+
+.margug p{
+    font-size: 10px;
+}
+
+.main-notify h1{
+    font-weight: bolder;
+    color: black;
+}
+
+.main-notify p{
+    font-size: 16px;
+    color: black;
+}
+.main-notify h6{
+    font-size: 10px;
+    color: black;
+}
+
+.bammer-side-view{
+    width: 80%;
+    margin: auto auto;
 }
 
 
